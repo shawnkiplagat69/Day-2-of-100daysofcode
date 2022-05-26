@@ -1,2 +1,4 @@
 # Day-2-of-100daysofcode
-Worked on a python project: Guess the number game
+**Worked on a python project: Guess the number game**
+The guess the number game, based on my code, is a proram that lets a user select a level of the game from easy, inter]mediate to hard. The only difference bringing about the different difficulty levels is the range from which a random number is generated for the user to try and guess the correct number.
+The code functionality is such that, after generating a random number, the program lets the user try giving guesses untill he/she finds the chosen number (or doesn't).Each time a user gives an incorrect number, he/she gets a clue untill he/she finds the right number or fails to completely in which case the program reveals the right answer. However, with each clue, a player's score reduces from an initial and maxima score of 100%
